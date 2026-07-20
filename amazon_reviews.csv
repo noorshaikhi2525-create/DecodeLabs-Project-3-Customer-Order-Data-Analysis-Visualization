@@ -1,0 +1,11 @@
+Review_ID,Product_Name,Rating,Review,Sentiment
+1001,Wireless Mouse,5,Excellent quality and fast delivery.,Positive
+1002,Bluetooth Speaker,4,Good sound quality for the price.,Positive
+1003,USB Cable,2,Stopped working after one week.,Negative
+1004,Laptop Stand,5,Very sturdy and easy to use.,Positive
+1005,Phone Charger,3,Average performance.,Neutral
+1006,Headphones,1,Poor sound quality.,Negative
+1007,Power Bank,5,Charges devices quickly.,Positive
+1008,Keyboard,4,Comfortable typing experience.,Positive
+1009,Smart Watch,2,Battery drains too fast.,Negative
+1010,Webcam,5,Clear video quality.,Positive
