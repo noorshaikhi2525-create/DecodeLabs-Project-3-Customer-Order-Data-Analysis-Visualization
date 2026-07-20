@@ -1,4 +1,5 @@
 DecodeLabs Project 3 – Customer Order Data Analysis & Visualization
+
 📌 Project Overview
 This project involves analyzing customer order data using Python to discover meaningful business insights. The workflow includes data preprocessing, exploratory data analysis (EDA), and visualization to better understand sales performance, customer purchasing trends, and order information.
 🛠 Tools & Technologies
@@ -49,8 +50,10 @@ Recognized products with the highest sales volume.
 Examined customer payment preferences.
 Analyzed order completion status.
 Produced a cleaned dataset suitable for further business analysis.
+
 👩‍💻 Author
 Hafsa Shaikh
 BS Computer Science Student
 DecodeLabs Intern
+
 ⭐ This project was completed as part of the DecodeLabs Data Analysis Internship Program.
